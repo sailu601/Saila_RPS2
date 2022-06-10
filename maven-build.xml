@@ -198,7 +198,7 @@
   </target>
 
   <!-- ====================================================================== -->
-  <!-- Package target                                                         -->
+  <!-- Package target                                       Poll scm enabled                  -->
   <!-- ====================================================================== -->
 
   <target name="package" depends="compile,test" description="Package the application">
