@@ -198,7 +198,8 @@
   </target>
 
   <!-- ====================================================================== -->
-  <!-- Package target                                       Poll scm enabled                  -->
+  <!-- Package target                                       Poll scm enabled         
+      Enable Webhook         -->
   <!-- ====================================================================== -->
 
   <target name="package" depends="compile,test" description="Package the application">
