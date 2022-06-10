@@ -213,6 +213,7 @@
       <fileset dir="src/main/webapp" 
                excludes="WEB-INF/web.xml"/>
     	hi
+    	jkkjgjh
     </war>
   </target>
 
