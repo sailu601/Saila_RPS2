@@ -212,6 +212,7 @@
       <classes dir="${maven.build.outputDir}"/>
       <fileset dir="src/main/webapp" 
                excludes="WEB-INF/web.xml"/>
+    	hi
     </war>
   </target>
 
